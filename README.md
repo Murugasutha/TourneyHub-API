@@ -51,8 +51,8 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/tourneyhub-api.git
-cd tourneyhub-api
+git clone https://github.com/Murugasutha/TourneyHub-API.git
+cd TourneyHub-API
 npm install
 npm install sequelize sqlite3 cors
 npm start
